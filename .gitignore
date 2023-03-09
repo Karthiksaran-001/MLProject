@@ -134,3 +134,6 @@ dmypy.json
 ## MLRun Folder
 mlruns/
 test.ipynb
+
+## Notebook data
+notebook/data/
